@@ -1,4 +1,5 @@
-🎉 Festival Post App 🎉
+# 🎉 Festival Post App 🎉
+
 Welcome to the Festival Post App, an innovative Flutter application that allows users to create, edit, and share personalized festival posts! This app provides a fun and easy way to wish your loved ones with custom-designed posts for various festivals.
 
 🚀 Features
