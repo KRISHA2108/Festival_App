@@ -41,55 +41,6 @@ This app is built with the help of several Flutter packages to enhance functiona
 * Flutter SDK: Version 2.0 or above
 * Dart: Version 2.12 or above
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 OUTPUT : 
 
 
